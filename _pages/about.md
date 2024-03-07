@@ -1,22 +1,3 @@
----
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
 Yuxiang Cai is an Assistant Professor affiliated with School of Software at Zhejiang University. He obtained the PhD degree in computer science and technology from Zhejiang University in 2023. His research interests lie in Edge Intelligence and AI for Remote Sensing. In particular, he is actively working on intelligent interpretation of remote sensing image, transfer learning/unsupervised domain adaptation, distributed edge intelligence and space–air–ground integrated integrated computing.
 
 For students who are interested in joining our lab (Mater/Intern), please contact me via caiyuxiang AT zju.edu.cn.
