@@ -1,17 +1,17 @@
-Yuxiang Cai is an Assistant Professor affiliated with School of Software at Zhejiang University. He obtained the PhD degree in computer science and technology from Zhejiang University in 2023. His research interests lie in Edge Intelligence and AI for Remote Sensing. In particular, he is actively working on intelligent interpretation of remote sensing image, transfer learning/unsupervised domain adaptation, distributed edge intelligence and space–air–ground integrated integrated computing.
+Yuxiang Cai is an Assistant Professor affiliated with School of Software at Zhejiang University. He obtained the PhD degree in computer science and technology from Zhejiang University in 2023. His research interests lie in ***Edge Intelligence*** and ***AI for Remote Sensing***. In particular, he is actively working on intelligent interpretation of remote sensing image, transfer learning/unsupervised domain adaptation, distributed edge intelligence and space–air–ground integrated integrated computing.
 
-For students who are interested in joining our lab (Mater/Intern), please contact me via caiyuxiang AT zju.edu.cn.
+***For students who are interested in joining our lab (Mater/Intern), please contact me via caiyuxiang AT zju.edu.cn.***
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). --> 
 
 
 # 🔥 News
 - *2023.11*: &nbsp;🎉 One Patent is granted by State Intellectual Property Office of China
-- *2023.07*: &nbsp;🎉 One paper is accepted by **ACMMM 2023**
-- *2023.05*: &nbsp;🎉 Invited to serve as a reviewer for **TGRS**
-- *2023.02*: &nbsp;🎉 Invited to serve as a reviewer for **NPL**
-- *2022.12*: &nbsp;🎉 One paper is accepted by **TGRS 2023**
-- *2022.09*: &nbsp;🎉 Invited to serve as a reviewer for **TJSC**
-- *2022.08*: &nbsp;🎉 One paper is accepted by **TGRS 2022**
+- *2023.07*: &nbsp;🎉 One paper is accepted by ***ACMMM 2023***
+- *2023.05*: &nbsp;🎉 Invited to serve as a reviewer for ***TGRS***
+- *2023.02*: &nbsp;🎉 Invited to serve as a reviewer for ***NPL***
+- *2022.12*: &nbsp;🎉 One paper is accepted by ***TGRS 2023***
+- *2022.09*: &nbsp;🎉 Invited to serve as a reviewer for ***TJSC***
+- *2022.08*: &nbsp;🎉 One paper is accepted by ***TGRS 2022***
 
 
 
