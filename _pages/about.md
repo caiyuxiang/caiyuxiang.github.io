@@ -24,8 +24,10 @@ For students who are interested in joining our lab (Mater/Intern), please contac
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.11*: &nbsp;🎉 One Patent is granted by State Intellectual Property Office of China
+- *2023.07*: &nbsp;🎉 One paper is accepted by ACMMM 2023
+- *2022.12*: &nbsp;🎉 One paper is accepted by TGRS 2023
+- *2022.08*: &nbsp;🎉 One paper is accepted by TGRS 2022
 
 # 📝 Publications 
 
