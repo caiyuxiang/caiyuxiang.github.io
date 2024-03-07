@@ -64,17 +64,17 @@ Yuxiang Cai is an Assistant Professor affiliated with School of Software at Zhej
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2023</div><img src='images/MM23.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2022</div><img src='images/IterDANet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploring High-Correlation Source Domain Information for Multi-Source Domain Adaptation in Semantic Segmentation](https://dl.acm.org/doi/10.1145/3581783.3613824)
+[IterDANet: Iterative Intra-domain Adaptation for Semantic Segmentation of Remote Sensing Images](https://doi.org/10.1109/TGRS.2022.3203040)
 
-**Yuxiang Cai**, Meng Xi*, Yongheng Shang, Jianwei Yin
+**Yuxiang Cai**, Yingchun Yang, Yongheng Shang, Zhenqian Chen, Zhengwei Shen and Jianwei Yin*
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> --> 
-- We reveal a crucial discovery that existing multi-source domain adaptation (MSDA) methods neglect the significance of both domain-level source-target correlation (DSC) and pixel-level source-target correlation (PSC). Hence we propose a novel MSDA method for semantic segmentation to maximally exploit the high-correlation source domains and source pixels for target domain.
-- We propose a novel correlation measurement mechanism to quantitatively estimate domain-level and pixel-level sourcetarget correlations for MSDA problems. On the basis of DSC and PSC, reweighted source segmentation loss and attentive prototype alignment loss are proposed to align target domain with its similar source domains as well as degrading the negative effects of disturbed source pixels.
-- We propose a novel high-correlation source domain pixel cross-domain mixing strategy (HSCM) to construct highcorrelation source-target mixed images, so as to degrade the negative effects of disturbed source pixels and enhance the feature learning of target domain.
+- We propose a novel IterDANet for cross-domain semantic segmentation of remote sensing images. IterDANet clusters the diverse target domain into multiple subdomains on the basis of InterDA and ER and iteratively reduces the intra-domain gap in remote sensing images. For all we know, IterDANet is the first study on unsupervised iterative IntraDA for remotely sensed semantic segmentation.
+- We propose a new GSS, which is a practical assessment approach, to reduce the impact of the instability issue of the GAN-based I2I translation and enhance the performance of InterDA, which is the basis of IntraDA. The proposed GSS can assess all intermediate image generators during the training phase and select a well-trained generator for I2I-based InterDA.
+- We propose a new PLGS to further improve the performance of IntraDA module and SSL methods. The proposed PLGS takes advantages of the combination of softmax probability and entropy as the confidence assessment and removes both high-entropy and low-confident predictions to produce more accurate pseudolabels.
 </div>
 </div>
 
