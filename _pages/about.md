@@ -94,7 +94,7 @@ Yuxiang Cai is an assistant professor affiliated with School of Software Technol
 
 # 📚 Professional Activities
 - Reviewer for IEEE Transactions on Geoscience and Remote Sensing (TGRS).
-- Reviewer for Neural Processing Letters (NPL)、The Journal of SuperComputing (TJSC).
+- Reviewer for Neural Processing Letters (NPL), The Journal of SuperComputing (TJSC).
 
 # 💬 Contact
 - caiyuxiang AT zju dot edu dot cn
