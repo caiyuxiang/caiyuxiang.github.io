@@ -36,19 +36,22 @@ Yuxiang Cai is an Assistant Professor affiliated with School of Software at Zhej
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/MM23.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2023</div><img src='images/MM23.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploring High-Correlation Source Domain Information for Multi-Source Domain Adaptation in Semantic Segmentation](https://dl.acm.org/doi/10.1145/3581783.3613824)
 
 **Yuxiang Cai**, Meng Xi*, Yongheng Shang, Jianwei Yin
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> --> 
+- We reveal a crucial discovery that existing multi-source domain adaptation (MSDA) methods neglect the significance of both domain-level source-target correlation (DSC) and pixel-level source-target correlation (PSC). Hence we propose a novel MSDA method for semantic segmentation to maximally exploit the high-correlation source domains and source pixels for target domain.
+- We propose a novel correlation measurement mechanism to quantitatively estimate domain-level and pixel-level sourcetarget correlations for MSDA problems. On the basis of DSC and PSC, reweighted source segmentation loss and attentive prototype alignment loss are proposed to align target domain with its similar source domains as well as degrading the negative effects of disturbed source pixels.
+- We propose a novel high-correlation source domain pixel cross-domain mixing strategy (HSCM) to construct highcorrelation source-target mixed images, so as to degrade the negative effects of disturbed source pixels and enhance the feature learning of target domain.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+- Zhenqian Chen, Yongheng Shang, Andre Python, **Yuxiang Cai**, Jianwei Yin*. [DB-BlendMask: Decomposed Attention and Balanced BlendMask for Instance Segmentation of High-Resolution Remote Sensing Images.](https://doi.org/10.1109/TGRS.2021.3138913). **TGRS 2022**
 
 *Corresponding Author
 
