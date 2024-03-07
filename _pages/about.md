@@ -72,6 +72,8 @@ Yuxiang Cai is an assistant professor affiliated with School of Software Technol
 </div>
 </div>
 
+* denotes Corresponding Author
+
 - **Yuxiang Cai**, Meng Xi*, Yongheng Shang, Jianwei Yin. [Exploring High-Correlation Source Domain Information for Multi-Source Domain Adaptation in Semantic Segmentation](https://dl.acm.org/doi/10.1145/3581783.3613824). **ACMMM 2023**. \[CCF-A\]
 - **Yuxiang Cai**, Yingchun Yang, Yongheng Shang, Zhengwei Shen, Jianwei Yin*. [DASRSNet: Multitask Domain Adaptation for Super-Resolution-Aided Semantic Segmentation of Remote Sensing Images](https://doi.org/10.1109/TGRS.2022.3232129).
 **TGRS 2023**. \[CCF-B, IF=8.2\]
@@ -79,7 +81,6 @@ Yuxiang Cai is an assistant professor affiliated with School of Software Technol
 - **Yuxiang Cai**, Yingchun Yang*, Qiyi Zheng, Zhengwei Shen, Yongheng Shang, Jianwei Yin, Zhongtian Shi. [BiFDANet: Unsupervised Bidirectional Domain Adaptation for Semantic Segmentation of Remote Sensing Images](https://www.mdpi.com/2072-4292/14/1/190). **RS 2022**. \[IF=5.0\]
 - Zhenqian Chen, Yongheng Shang, Andre Python, **Yuxiang Cai**, Jianwei Yin*. [DB-BlendMask: Decomposed Attention and Balanced BlendMask for Instance Segmentation of High-Resolution Remote Sensing Images](https://doi.org/10.1109/TGRS.2021.3138913). **TGRS 2022**. \[CCF-B, IF=8.2\]
 
-*Corresponding Author
 
 # 📓 Patents 
 - CN, "Semantic segmentation method for cross-satellite remote sensing images based on unsupervised bidirectional domain adaptation and fusion", ZL 2021 1 1017498.9.
