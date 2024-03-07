@@ -24,12 +24,13 @@ Yuxiang Cai is an assistant professor affiliated with School of Software Technol
 
 
 # 🔥 News
+- *2024.01*: &nbsp; Join the School of Software Technology at Zhejiang University as an Assistant Professor
 - *2023.11*: &nbsp;🎉 One Patent is granted by State Intellectual Property Office of China
 - *2023.07*: &nbsp;🎉 One paper is accepted by ***ACMMM 2023***
-- *2023.05*: &nbsp;🎉 Invited to serve as a reviewer for ***TGRS***
-- *2023.02*: &nbsp;🎉 Invited to serve as a reviewer for ***NPL***
+- *2023.05*: &nbsp;🎉 I was Invited to serve as a reviewer for ***TGRS***
+- *2023.02*: &nbsp;🎉 I was Invited to serve as a reviewer for ***NPL***
 - *2022.12*: &nbsp;🎉 One paper is accepted by ***TGRS 2023***
-- *2022.09*: &nbsp;🎉 Invited to serve as a reviewer for ***TJSC***
+- *2022.09*: &nbsp;🎉 I was Invited to serve as a reviewer for ***TJSC***
 - *2022.08*: &nbsp;🎉 One paper is accepted by ***TGRS 2022***
 
 
@@ -43,9 +44,7 @@ Yuxiang Cai is an assistant professor affiliated with School of Software Technol
 **Yuxiang Cai**, Meng Xi*, Yongheng Shang, Jianwei Yin
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> --> 
-- We reveal a crucial discovery that existing multi-source domain adaptation (MSDA) methods neglect the significance of both domain-level source-target correlation (DSC) and pixel-level source-target correlation (PSC). Hence we propose a novel MSDA method for semantic segmentation to maximally exploit the high-correlation source domains and source pixels for target domain.
-- We propose a novel correlation measurement mechanism to quantitatively estimate domain-level and pixel-level sourcetarget correlations for MSDA problems. On the basis of DSC and PSC, reweighted source segmentation loss and attentive prototype alignment loss are proposed to align target domain with its similar source domains as well as degrading the negative effects of disturbed source pixels.
-- We propose a novel high-correlation source domain pixel cross-domain mixing strategy (HSCM) to construct highcorrelation source-target mixed images, so as to degrade the negative effects of disturbed source pixels and enhance the feature learning of target domain.
+- This work proposes a novel multi-source domain adaptation method for semantic segmentation to maximally exploit the high-correlation source domains and source pixels for target domain.
 </div>
 </div>
 
@@ -57,9 +56,7 @@ Yuxiang Cai is an assistant professor affiliated with School of Software Technol
 **Yuxiang Cai**, Yingchun Yang, Yongheng Shang, Zhengwei Shen, Jianwei Yin*
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> --> 
-- We propose a novel multitask domain adaptation (DA) network called DASRSNet for cross-domain semantic segmentation (SS) of low-resolution (LR) remotely sensed images. Our DASRSNet includes three modules, with DASS branch to perform SS and DA in the output level, DASR branch to conduct super-resolution (SR) and DA in the image space, and feature affinity (FA) module to boost the correlation between DASS and DASR branches. To the best of our knowledge, DASRSNet is the first work on multitask DASR-aided SS of LR remote sensing images.
-- We propose to integrate SR into the popular DA method, which enables the existing DA model to better segment LR target remote sensing images and small objects. Extensive experimental results validate the effectiveness and robustness of this SR-aided architecture.
-- We propose a novel FA loss for the SR-aided SS tasks of cross-domain remotely sensed images. The proposed FA loss is designed to strengthen the affinity of SS features and SR features on both source and target domains.
+- This work proposes DASRSNet, a novel multitask domain adaptation network for cross-domain semantic segmentation of low-resolution remote sensing images.
 </div>
 </div>
 
