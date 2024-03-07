@@ -25,9 +25,14 @@ For students who are interested in joining our lab (Mater/Intern), please contac
 
 # 🔥 News
 - *2023.11*: &nbsp;🎉 One Patent is granted by State Intellectual Property Office of China
-- *2023.07*: &nbsp;🎉 One paper is accepted by ACMMM 2023
-- *2022.12*: &nbsp;🎉 One paper is accepted by TGRS 2023
-- *2022.08*: &nbsp;🎉 One paper is accepted by TGRS 2022
+- *2023.07*: &nbsp;🎉 One paper is accepted by **ACMMM 2023**
+- *2023.05*: &nbsp;🎉 Invited to serve as a reviewer for **TGRS**
+- *2023.02*: &nbsp;🎉 Invited to serve as a reviewer for **NPL**
+- *2022.12*: &nbsp;🎉 One paper is accepted by **TGRS 2023**
+- *2022.09*: &nbsp;🎉 Invited to serve as a reviewer for **TJSC**
+- *2022.08*: &nbsp;🎉 One paper is accepted by **TGRS 2022**
+
+
 
 # 📝 Publications 
 
