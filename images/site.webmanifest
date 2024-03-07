@@ -5,12 +5,12 @@
        {
           "src": "/cyx.jpg",
           "sizes": "192x192",
-          "type": "image/png"
+          "type": "image/jpg"
        },
        {
         "src": "/cyx.jpg",
         "sizes": "512x512",
-        "type": "image/png"
+        "type": "image/jpg"
         }
     ],
     "theme_color": "#FFFFFF",
