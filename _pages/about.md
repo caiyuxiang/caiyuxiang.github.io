@@ -83,6 +83,17 @@ Yuxiang Cai is a Researcher (特聘研究员) affiliated with School of Software
 
 *Corresponding Author
 
+# 📝 Patents 
+- Jianwei Yin, **Yuxiang Cai**, Yingchun Yang, Shuiguang Deng, Ying Li. SEMANTIC SEGMENTATION METHOD FOR CROSS-SATELLITE REMOTE SENSING IMAGES BASED ON UNSUPERVISED BIDIRECTIONAL DOMAIN ADAPTATION AND FUSION. Chinese invention patent. **Grant**.
+
+# 📚 Professional Activities
+- Reviewer for IEEE Transactions on Geoscience and Remote Sensing (TGRS).
+- Reviewer for Neural Processing Letters (NPL)、The Journal of SuperComputing (TJSC).
+
+# 💬 Contact
+- caiyuxiang AT zju dot edu dot cn
+- E307 Teaching Building, School of Software Technology, Zhejiang University, Ningbo, China.
+
 <!--
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
