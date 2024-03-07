@@ -33,7 +33,6 @@ Yuxiang Cai is a Researcher (特聘研究员) affiliated with School of Software
 - *2022.08*: &nbsp;🎉 One paper is accepted by ***TGRS 2022***
 
 
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2023</div><img src='images/MM23.jpg' alt="sym" width="100%"></div></div>
@@ -58,8 +57,8 @@ Yuxiang Cai is a Researcher (特聘研究员) affiliated with School of Software
 **Yuxiang Cai**, Yingchun Yang, Yongheng Shang, Zhengwei Shen, Jianwei Yin*
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> --> 
-- We propose a novel multitask UDA network called DASRSNet for cross-domain SS (SS) of LR remotely sensed images. Our DASRSNet includes three modules, with DASS branch to perform SS and UDA in the output level, DASR branch to conduct SR and UDA in the image space, and FA module to boost the correlation between DASS and DASR branches. To the best of our knowledge, DASRSNet is the first work on multitask DASR-aided SS of LR remote sensing images.
-- We propose to integrate SR into the popular UDA method, which enables the existing UDA model to better segment LR target remote sensing images and small objects. Extensive experimental results validate the effectiveness and robustness of this SR-aided architecture.
+- We propose a novel multitask domain adaptation (DA) network called DASRSNet for cross-domain semantic segmentation (SS) of low-resolution (LR) remotely sensed images. Our DASRSNet includes three modules, with DASS branch to perform SS and DA in the output level, DASR branch to conduct super-resolution (SR) and DA in the image space, and feature affinity (FA) module to boost the correlation between DASS and DASR branches. To the best of our knowledge, DASRSNet is the first work on multitask DASR-aided SS of LR remote sensing images.
+- We propose to integrate SR into the popular DA method, which enables the existing DA model to better segment LR target remote sensing images and small objects. Extensive experimental results validate the effectiveness and robustness of this SR-aided architecture.
 - We propose a novel FA loss for the SR-aided SS tasks of cross-domain remotely sensed images. The proposed FA loss is designed to strengthen the affinity of SS features and SR features on both source and target domains.
 </div>
 </div>
@@ -72,9 +71,9 @@ Yuxiang Cai is a Researcher (特聘研究员) affiliated with School of Software
 **Yuxiang Cai**, Yingchun Yang, Yongheng Shang, Zhenqian Chen, Zhengwei Shen, Jianwei Yin*
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> --> 
-- We propose a novel IterDANet for cross-domain semantic segmentation of remote sensing images. IterDANet clusters the diverse target domain into multiple subdomains on the basis of InterDA and ER and iteratively reduces the intra-domain gap in remote sensing images. For all we know, IterDANet is the first study on unsupervised iterative IntraDA for remotely sensed semantic segmentation.
-- We propose a new GSS, which is a practical assessment approach, to reduce the impact of the instability issue of the GAN-based I2I translation and enhance the performance of InterDA, which is the basis of IntraDA. The proposed GSS can assess all intermediate image generators during the training phase and select a well-trained generator for I2I-based InterDA.
-- We propose a new PLGS to further improve the performance of IntraDA module and SSL methods. The proposed PLGS takes advantages of the combination of softmax probability and entropy as the confidence assessment and removes both high-entropy and low-confident predictions to produce more accurate pseudolabels.
+- We propose a novel IterDANet for cross-domain semantic segmentation of remote sensing images. IterDANet clusters the diverse target domain into multiple subdomains on the basis of inter-domain adaptation (InterDA) and entropy-based ranking (ER) and iteratively reduces the intra-domain gap in remote sensing images. For all we know, IterDANet is the first study on unsupervised iterative intra-domain adaptation (IntraDA) for remotely sensed semantic segmentation.
+- We propose a new generator selection strategy (GSS), which is a practical assessment approach, to reduce the impact of the instability issue of the GAN-based image-to-image (I2I) translation and enhance the performance of InterDA, which is the basis of IntraDA. The proposed GSS can assess all intermediate image generators during the training phase and select a well-trained generator for I2I-based InterDA.
+- We propose a new pseudolabel generation strategy (PLGS) to further improve the performance of IntraDA module and self-supervised learning (SSL) methods. The proposed PLGS takes advantages of the combination of softmax probability and entropy as the confidence assessment and removes both high-entropy and low-confident predictions to produce more accurate pseudolabels.
 </div>
 </div>
 
