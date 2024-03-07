@@ -55,7 +55,7 @@ Yuxiang Cai is a Researcher (特聘研究员) affiliated with School of Software
 
 [DASRSNet: Multitask Domain Adaptation for Super-Resolution-Aided Semantic Segmentation of Remote Sensing Images](https://doi.org/10.1109/TGRS.2022.3232129)
 
-**Yuxiang Cai**, Yingchun Yang, Yongheng Shang, Zhengwei Shen and Jianwei Yin*
+**Yuxiang Cai**, Yingchun Yang, Yongheng Shang, Zhengwei Shen, Jianwei Yin*
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> --> 
 - We propose a novel multitask UDA network called DASRSNet for cross-domain SS (SS) of LR remotely sensed images. Our DASRSNet includes three modules, with DASS branch to perform SS and UDA in the output level, DASR branch to conduct SR and UDA in the image space, and FA module to boost the correlation between DASS and DASR branches. To the best of our knowledge, DASRSNet is the first work on multitask DASR-aided SS of LR remote sensing images.
@@ -69,7 +69,7 @@ Yuxiang Cai is a Researcher (特聘研究员) affiliated with School of Software
 
 [IterDANet: Iterative Intra-domain Adaptation for Semantic Segmentation of Remote Sensing Images](https://doi.org/10.1109/TGRS.2022.3203040)
 
-**Yuxiang Cai**, Yingchun Yang, Yongheng Shang, Zhenqian Chen, Zhengwei Shen and Jianwei Yin*
+**Yuxiang Cai**, Yingchun Yang, Yongheng Shang, Zhenqian Chen, Zhengwei Shen, Jianwei Yin*
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> --> 
 - We propose a novel IterDANet for cross-domain semantic segmentation of remote sensing images. IterDANet clusters the diverse target domain into multiple subdomains on the basis of InterDA and ER and iteratively reduces the intra-domain gap in remote sensing images. For all we know, IterDANet is the first study on unsupervised iterative IntraDA for remotely sensed semantic segmentation.
@@ -84,7 +84,11 @@ Yuxiang Cai is a Researcher (特聘研究员) affiliated with School of Software
 *Corresponding Author
 
 # 📝 Patents 
-- Jianwei Yin, **Yuxiang Cai**, Yingchun Yang, Shuiguang Deng, Ying Li. SEMANTIC SEGMENTATION METHOD FOR CROSS-SATELLITE REMOTE SENSING IMAGES BASED ON UNSUPERVISED BIDIRECTIONAL DOMAIN ADAPTATION AND FUSION. Chinese invention patent. **Grant**.
+- Jianwei Yin, **Yuxiang Cai**, Yingchun Yang, Shuiguang Deng, Ying Li. SEMANTIC SEGMENTATION METHOD FOR CROSS-SATELLITE REMOTE SENSING IMAGES BASED ON UNSUPERVISED BIDIRECTIONAL DOMAIN ADAPTATION AND FUSION. Chinese Invention Patent. **Grant**. (ZL 2021 1 1017498.9)
+- Jianwei Yin, **Yuxiang Cai**, Meng Xi, Yongheng Shang. MULTI-SOURCE DOMAIN ADAPTIVE SEMANTIC SEGMENTATION METHOD AND DEVICE BASED ON MULTI-LEVEL DOMAIN CORRELATION. PCT Patent/Chinese Invention Patent. Accept. (PCT-CN2023-123148/CN202311119643.3)
+- Jianwei Yin, **Yuxiang Cai**, Yingchun Yang, Yongheng Shang, Zhenqian Chen, Zhengwei Shen. SEMANTIC SEGMENTATION METHOD FOR CROSS-DOMAIN REMOTE SENSING IMAGES BASED ON ITERATIVE INTRA-DOMAIN ADAPTATION. PCT Patent/Chinese Invention Patent. Accept. (PCTCN2022-090009/CN202210402338.4)
+- Jianwei Yin, **Yuxiang Cai**, Yingchun Yang, Shuiguang Deng, Ying Li. SEMANTIC SEGMENTATION METHOD FOR CROSS-SATELLITE REMOTE SENSING IMAGES BASED ON UNSUPERVISED BIDIRECTIONAL DOMAIN ADAPTATION AND FUSION. PCT Patent. Accept. (PCT-CN2021-119171)
+
 
 # 📚 Professional Activities
 - Reviewer for IEEE Transactions on Geoscience and Remote Sensing (TGRS).
@@ -94,19 +98,3 @@ Yuxiang Cai is a Researcher (特聘研究员) affiliated with School of Software
 - caiyuxiang AT zju dot edu dot cn
 - E307 Teaching Building, School of Software Technology, Zhejiang University, Ningbo, China.
 
-<!--
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
---> 
