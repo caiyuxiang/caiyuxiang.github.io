@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuxiang Cai is a Researcher (特聘研究员) affiliated with School of Software Technology at Zhejiang University. He obtained the PhD degree in computer science and technology from Zhejiang University in 2023. His research interests lie in ***Edge Intelligence*** and ***AI for Remote Sensing***. In particular, he is actively working on intelligent interpretation of remote sensing image, transfer learning/unsupervised domain adaptation, distributed edge intelligence and space–air–ground integrated integrated computing.
+Yuxiang Cai is an assistant professor affiliated with School of Software Technology at Zhejiang University. He obtained the PhD degree in computer science and technology from Zhejiang University in 2023. His research interests lie in ***Edge Intelligence*** and ***AI for Remote Sensing***. In particular, he is actively working on intelligent interpretation of remote sensing image, transfer learning/unsupervised domain adaptation, distributed edge intelligence and space–air–ground integrated integrated computing.
 
 ***For students who are interested in joining our lab (Mater/Intern), please contact me via caiyuxiang AT zju.edu.cn.***
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). --> 
@@ -77,7 +77,7 @@ Yuxiang Cai is a Researcher (特聘研究员) affiliated with School of Software
 </div>
 </div>
 
-- **Yuxiang Cai**, Yingchun Yang*, Qiyi Zheng, Zhengwei Shen, Yongheng Shang, Jianwei Yin, Zhongtian Shi. [BiFDANet: Unsupervised Bidirectional Domain Adaptation for Semantic Segmentation of Remote Sensing Images](https://www.mdpi.com/2072-4292/14/1/190). **RS 2022**
+- <div class="badge">RS 2022</div> **Yuxiang Cai**, Yingchun Yang*, Qiyi Zheng, Zhengwei Shen, Yongheng Shang, Jianwei Yin, Zhongtian Shi. [BiFDANet: Unsupervised Bidirectional Domain Adaptation for Semantic Segmentation of Remote Sensing Images](https://www.mdpi.com/2072-4292/14/1/190). **RS 2022**
 - Zhenqian Chen, Yongheng Shang, Andre Python, **Yuxiang Cai**, Jianwei Yin*. [DB-BlendMask: Decomposed Attention and Balanced BlendMask for Instance Segmentation of High-Resolution Remote Sensing Images](https://doi.org/10.1109/TGRS.2021.3138913). **TGRS 2022**
 
 *Corresponding Author
