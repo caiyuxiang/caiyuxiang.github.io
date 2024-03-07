@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuxiang Cai (蔡钰祥)"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Assistant Professor in School of Software, ACES Lab. Focusing on Edge Intelligence, AI for Remote Sensing"
 repository               : "caiyuxiang/caiyuxiang.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuxiang Cai (蔡钰祥)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "School of Software at Zhejiang University"
+  bio              : "Zhejiang University"   # School of Software at 
   location         : "Ningbo/Hangzhou, China"
   employer         :
   pubmed           : 
