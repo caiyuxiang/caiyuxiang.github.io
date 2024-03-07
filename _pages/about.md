@@ -50,8 +50,8 @@ Yuxiang Cai is an Assistant Professor affiliated with School of Software at Zhej
 </div>
 </div>
 
-
-- Zhenqian Chen, Yongheng Shang, Andre Python, **Yuxiang Cai**, Jianwei Yin*. [DB-BlendMask: Decomposed Attention and Balanced BlendMask for Instance Segmentation of High-Resolution Remote Sensing Images.](https://doi.org/10.1109/TGRS.2021.3138913). **TGRS 2022**
+- **Yuxiang Cai**, Yingchun Yang*, Qiyi Zheng, Zhengwei Shen, Yongheng Shang, Jianwei Yin, Zhongtian Shi. [BiFDANet: Unsupervised Bidirectional Domain Adaptation for Semantic Segmentation of Remote Sensing Images](https://www.mdpi.com/2072-4292/14/1/190). **RS 2022**
+- Zhenqian Chen, Yongheng Shang, Andre Python, **Yuxiang Cai**, Jianwei Yin*. [DB-BlendMask: Decomposed Attention and Balanced BlendMask for Instance Segmentation of High-Resolution Remote Sensing Images](https://doi.org/10.1109/TGRS.2021.3138913). **TGRS 2022**
 
 *Corresponding Author
 
