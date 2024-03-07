@@ -81,12 +81,16 @@ Yuxiang Cai is an assistant professor affiliated with School of Software Technol
 
 *Corresponding Author
 
-# 📝 Patents 
+# 📓 Patents 
+- CN, "Semantic segmentation method for cross-satellite remote sensing images based on unsupervised bidirectional domain adaptation and fusion", ZL 2021 1 1017498.9.
+
+<!--
+# 📓 Patents 
 - Jianwei Yin, **Yuxiang Cai**, Yingchun Yang, Shuiguang Deng, Ying Li. SEMANTIC SEGMENTATION METHOD FOR CROSS-SATELLITE REMOTE SENSING IMAGES BASED ON UNSUPERVISED BIDIRECTIONAL DOMAIN ADAPTATION AND FUSION. Chinese Invention Patent. **Grant**. (ZL 2021 1 1017498.9)
 - Jianwei Yin, **Yuxiang Cai**, Meng Xi, Yongheng Shang. MULTI-SOURCE DOMAIN ADAPTIVE SEMANTIC SEGMENTATION METHOD AND DEVICE BASED ON MULTI-LEVEL DOMAIN CORRELATION. PCT Patent/Chinese Invention Patent. Accept. (PCT-CN2023-123148/CN202311119643.3)
 - Jianwei Yin, **Yuxiang Cai**, Yingchun Yang, Yongheng Shang, Zhenqian Chen, Zhengwei Shen. SEMANTIC SEGMENTATION METHOD FOR CROSS-DOMAIN REMOTE SENSING IMAGES BASED ON ITERATIVE INTRA-DOMAIN ADAPTATION. PCT Patent/Chinese Invention Patent. Accept. (PCTCN2022-090009/CN202210402338.4)
 - Jianwei Yin, **Yuxiang Cai**, Yingchun Yang, Shuiguang Deng, Ying Li. SEMANTIC SEGMENTATION METHOD FOR CROSS-SATELLITE REMOTE SENSING IMAGES BASED ON UNSUPERVISED BIDIRECTIONAL DOMAIN ADAPTATION AND FUSION. PCT Patent. Accept. (PCT-CN2021-119171)
-
+-->
 
 # 📚 Professional Activities
 - Reviewer for IEEE Transactions on Geoscience and Remote Sensing (TGRS).
