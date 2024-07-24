@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuxiang Cai is an assistant professor affiliated with School of Software Technology at Zhejiang University. He obtained the PhD degree in computer science and technology from Zhejiang University in 2023, supervised by Prof. [Jianwei Yin](https://mypage.zju.edu.cn/0001038). His research interests lie in ***Edge Intelligence*** and ***AI for Remote Sensing***. In particular, he is actively working on intelligent interpretation of remote sensing image, transfer learning/unsupervised domain adaptation, distributed edge intelligence and space–air–ground integrated computing.
+[Yuxiang Cai](https://person.zju.edu.cn/caiyx) is an assistant professor affiliated with School of Software Technology at Zhejiang University. He obtained the PhD degree in computer science and technology from Zhejiang University in 2023, supervised by Prof. [Jianwei Yin](https://mypage.zju.edu.cn/0001038). His research interests lie in ***Edge Intelligence*** and ***AI for Remote Sensing***. In particular, he is actively working on intelligent interpretation of remote sensing image, transfer learning/unsupervised domain adaptation, distributed edge intelligence and space–air–ground integrated computing.
 
 ***For students who are interested in joining our research group (Mater/Intern), please contact me via caiyuxiang AT zju.edu.cn.***
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). --> 
 
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉 One paper is accepted by ***ACMMM 2024***
 - *2024.01*: &nbsp; Join the School of Software Technology at Zhejiang University as an Assistant Professor
 - *2023.11*: &nbsp;🎉 One Patent is granted by State Intellectual Property Office of China
 - *2023.07*: &nbsp;🎉 One paper is accepted by ***ACMMM 2023***
@@ -35,6 +36,18 @@ Yuxiang Cai is an assistant professor affiliated with School of Software Technol
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/MM24.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MultiDAN: Unsupervised, Multistage, Multisource and Multitarget Domain Adaptation for Semantic Segmentation of Remote Sensing Images](https://2024.acmmm.org/)
+
+**Yuxiang Cai**, Yongheng Shang, Jianwei Yin*
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> --> 
+- This work proposes a novel multistage, multisource and multitarget unsupervised domain adaptation network called MultiDAN for remotely sensed semantic segmentation.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2023</div><img src='images/MM23.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -72,6 +85,7 @@ Yuxiang Cai is an assistant professor affiliated with School of Software Technol
 </div>
 </div>
 
+- **Yuxiang Cai**, Yongheng Shang, Jianwei Yin*. [MultiDAN: Unsupervised, Multistage, Multisource and Multitarget Domain Adaptation for Semantic Segmentation of Remote Sensing Images](https://2024.acmmm.org/). **ACMMM 2024**. \[CCF-A\]
 - **Yuxiang Cai**, Meng Xi*, Yongheng Shang, Jianwei Yin. [Exploring High-Correlation Source Domain Information for Multi-Source Domain Adaptation in Semantic Segmentation](https://dl.acm.org/doi/10.1145/3581783.3613824). **ACMMM 2023**. \[CCF-A\]
 - **Yuxiang Cai**, Yingchun Yang, Yongheng Shang, Zhengwei Shen, Jianwei Yin*. [DASRSNet: Multitask Domain Adaptation for Super-Resolution-Aided Semantic Segmentation of Remote Sensing Images](https://doi.org/10.1109/TGRS.2022.3232129).
 **TGRS 2023**. \[CCF-B, IF=8.2\]
