@@ -25,26 +25,26 @@ redirect_from:
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉 One paper is accepted by ***CVPR 2026***
-- *2026.02*: &nbsp;🎉 I was Invited to serve as a reviewer for ***ACMMM 2026***
-- *2026.02*: &nbsp;🎉 I was Invited to serve as a reviewer for ***ICML 2026***
+- *2026.02*: &nbsp; I was Invited to serve as a reviewer for ***ACMMM 2026***
+- *2026.02*: &nbsp; I was Invited to serve as a reviewer for ***ICML 2026***
 - *2026.01*: &nbsp;🎉 One paper is accepted by ***ICLR 2026***
-- *2025.12*: &nbsp;🎉 I was Invited to serve as a reviewer for ***IJCAI-ECAI 2026***
-- *2025.11*: &nbsp;🎉 I was Invited to serve as a reviewer for ***CVPR 2026***
+- *2025.12*: &nbsp; I was Invited to serve as a reviewer for ***IJCAI-ECAI 2026***
+- *2025.11*: &nbsp; I was Invited to serve as a reviewer for ***CVPR 2026***
 - *2025.09*: &nbsp;🎉 One ***United States Patent*** is granted
 - *2025.09*: &nbsp;🎉 One Patent is granted by State Intellectual Property Office of China
-- *2025.08*: &nbsp;🎉 I was Invited to serve as a reviewer for ***AAAI 2026***
+- *2025.08*: &nbsp; I was Invited to serve as a reviewer for ***AAAI 2026***
 - *2025.05*: &nbsp;🎉 One paper is accepted by ***IEEE GRSM***(IF=16.4)
 - *2025.04*: &nbsp;🎉 One Patent is granted by State Intellectual Property Office of China
-- *2025.02*: &nbsp;🎉 I was Invited to serve as a reviewer for ***ACMMM 2025***
-- *2025.01*: &nbsp;🎉 I was Invited to serve as a reviewer for ***IJCAI 2025***
+- *2025.02*: &nbsp; I was Invited to serve as a reviewer for ***ACMMM 2025***
+- *2025.01*: &nbsp; I was Invited to serve as a reviewer for ***IJCAI 2025***
 - *2024.07*: &nbsp;🎉 One paper is accepted by ***ACMMM 2024***
 - *2024.01*: &nbsp; Join the School of Software Technology at Zhejiang University as an Assistant Professor
 - *2023.11*: &nbsp;🎉 One Patent is granted by State Intellectual Property Office of China
 - *2023.07*: &nbsp;🎉 One paper is accepted by ***ACMMM 2023***
-- *2023.05*: &nbsp;🎉 I was Invited to serve as a reviewer for ***IEEE TGRS***
-- *2023.02*: &nbsp;🎉 I was Invited to serve as a reviewer for ***NPL***
+- *2023.05*: &nbsp; I was Invited to serve as a reviewer for ***IEEE TGRS***
+- *2023.02*: &nbsp; I was Invited to serve as a reviewer for ***NPL***
 - *2022.12*: &nbsp;🎉 One paper is accepted by ***IEEE TGRS***
-- *2022.09*: &nbsp;🎉 I was Invited to serve as a reviewer for ***TJSC***
+- *2022.09*: &nbsp; I was Invited to serve as a reviewer for ***TJSC***
 - *2022.08*: &nbsp;🎉 One paper is accepted by ***IEEE TGRS***
 
 
