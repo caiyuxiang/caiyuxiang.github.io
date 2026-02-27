@@ -109,7 +109,11 @@ redirect_from:
 &nbsp;* denotes Corresponding Author
 
 # 📓 Patents 
-- CN, "Semantic segmentation method for cross-satellite remote sensing images based on unsupervised bidirectional domain adaptation and fusion", ZL 2021 1 1017498.9.
+- US, "SEMANTIC SEGMENTATION METHOD FOR CROSS-DOMAIN REMOTE SENSING IMAGES BASED ON ITERATIVE INTRA-DOMAIN ADAPTATION", US 12423825 B2.
+- CN, "基于多级领域相关度的多源领域自适应语义分割方法及装置", ZL 2023 1 1119643.3.
+- CN, "基于迭代域内适应和自训练的跨域遥感图像语义分割方法", ZL 2022 1 0402338.4.
+- CN, "基于双向无监督域适应融合的跨星遥感图像语义分割方法", ZL 2021 1 1017498.9.
+- CN, "基于尺寸平衡FCOS的高分辨率遥感场景目标检测方法", ZL 2021 1 1143539.9.
 
 <!--
 # 📓 Patents 
@@ -120,8 +124,8 @@ redirect_from:
 -->
 
 # 📚 Professional Activities
-- Reviewer for IEEE Transactions on Geoscience and Remote Sensing (TGRS).
-- Reviewer for Neural Processing Letters (NPL), The Journal of SuperComputing (TJSC).
+- Reviewer for IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), International Conference on Machine Learning(ICML), ACM International Conference on Multimedia(ACMMM), AAAI Conference on Artificial Intelligence(AAAI), International Joint Conference on Artificial Intelligence(IJCAI), ...
+- Reviewer for IEEE Transactions on Geoscience and Remote Sensing (TGRS), Neural Processing Letters (NPL), The Journal of SuperComputing (TJSC), ...
 
 # 🎓 Education
 - 2018.09 - 2023.12, Ph.D., Computer Science and Technology, Zhejiang University, Hangzhou.
