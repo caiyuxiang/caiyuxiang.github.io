@@ -28,6 +28,7 @@ redirect_from:
 - *2026.02*: &nbsp; I was Invited to serve as a reviewer for ***ACMMM 2026***
 - *2026.02*: &nbsp; I was Invited to serve as a reviewer for ***ICML 2026***
 - *2026.01*: &nbsp;🎉 One paper is accepted by ***ICLR 2026***
+- *2026.01*: &nbsp;🎉 One paper is accepted by ***ICASSP 2026***
 - *2025.12*: &nbsp; I was Invited to serve as a reviewer for ***IJCAI-ECAI 2026***
 - *2025.11*: &nbsp; I was Invited to serve as a reviewer for ***CVPR 2026***
 - *2025.09*: &nbsp;🎉 One ***United States Patent*** is granted
@@ -35,6 +36,7 @@ redirect_from:
 - *2025.08*: &nbsp; I was Invited to serve as a reviewer for ***AAAI 2026***
 - *2025.05*: &nbsp;🎉 One paper is accepted by ***IEEE GRSM***(IF=16.4)
 - *2025.04*: &nbsp;🎉 One Patent is granted by State Intellectual Property Office of China
+- *2025.03*: &nbsp;🎉 One paper is accepted by ***ICME 2025***
 - *2025.02*: &nbsp; I was Invited to serve as a reviewer for ***ACMMM 2025***
 - *2025.01*: &nbsp; I was Invited to serve as a reviewer for ***IJCAI 2025***
 - *2024.07*: &nbsp;🎉 One paper is accepted by ***ACMMM 2024***
