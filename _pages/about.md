@@ -129,7 +129,7 @@ Yankai Jiang, Qiaoru Li, Binlu Xu, Haoran Sun, Chao Ding, Junting Dong, **Yuxian
 
 &nbsp;* denotes Corresponding Author
 
-# 📓 Patents 
+# 📓 Selective Patents 
 - US, "SEMANTIC SEGMENTATION METHOD FOR CROSS-DOMAIN REMOTE SENSING IMAGES BASED ON ITERATIVE INTRA-DOMAIN ADAPTATION", US 12423825 B2.
 - CN, "基于多级领域相关度的多源领域自适应语义分割方法及装置", ZL 2023 1 1119643.3.
 - CN, "基于迭代域内适应和自训练的跨域遥感图像语义分割方法", ZL 2022 1 0402338.4.
@@ -154,5 +154,5 @@ Yankai Jiang, Qiaoru Li, Binlu Xu, Haoran Sun, Chao Ding, Junting Dong, **Yuxian
 
 # 💬 Contact
 - caiyuxiang AT zju dot edu dot cn
-- E307 Teaching Building, School of Software Technology, Zhejiang University, Ningbo, China.
+- Building 3, School of Software Technology, Zhejiang University, Ningbo, China.
 
