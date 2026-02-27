@@ -17,25 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-[Yuxiang Cai](https://person.zju.edu.cn/caiyx) is an assistant professor affiliated with School of Software Technology at Zhejiang University. He obtained the PhD degree in computer science and technology from Zhejiang University in 2023, supervised by Prof. [Jianwei Yin](https://mypage.zju.edu.cn/0001038). His research interests lie in ***Edge Intelligence*** and ***AI for Remote Sensing***. In particular, he is actively working on intelligent interpretation of remote sensing image, transfer learning/unsupervised domain adaptation, distributed edge intelligence and space–air–ground integrated computing.
+[Yuxiang Cai](https://person.zju.edu.cn/caiyx) is an assistant professor affiliated with School of Software Technology at Zhejiang University. He obtained the PhD degree in computer science and technology from Zhejiang University in 2023, supervised by Prof. [Jianwei Yin](https://mypage.zju.edu.cn/0001038). His research interests lie in ***Crossover Service***, ***Model Transfer*** and ***VLM***. In particular, he is actively working on intelligent interpretation of multimodal data(video, 2D/3D image, ...), transfer learning(UDA, TTA, ...), AI+X(remote sensing, medicine, ...) and space–air–ground integrated computing.
 
 ***For students who are interested in joining our research group (Master/Intern), please contact me via caiyuxiang AT zju.edu.cn.***
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). --> 
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉 One paper is accepted by ***CVPR 2026***
+- *2026.01*: &nbsp;🎉 One paper is accepted by ***ICLR 2026***
+- *2025.05*: &nbsp;🎉 One paper is accepted by ***IEEE GRSM***(IF=16.4)
 - *2024.07*: &nbsp;🎉 One paper is accepted by ***ACMMM 2024***
 - *2024.01*: &nbsp; Join the School of Software Technology at Zhejiang University as an Assistant Professor
 - *2023.11*: &nbsp;🎉 One Patent is granted by State Intellectual Property Office of China
 - *2023.07*: &nbsp;🎉 One paper is accepted by ***ACMMM 2023***
-- *2023.05*: &nbsp;🎉 I was Invited to serve as a reviewer for ***TGRS***
+- *2023.05*: &nbsp;🎉 I was Invited to serve as a reviewer for ***IEEE TGRS***
 - *2023.02*: &nbsp;🎉 I was Invited to serve as a reviewer for ***NPL***
-- *2022.12*: &nbsp;🎉 One paper is accepted by ***TGRS 2023***
+- *2022.12*: &nbsp;🎉 One paper is accepted by ***IEEE TGRS***
 - *2022.09*: &nbsp;🎉 I was Invited to serve as a reviewer for ***TJSC***
-- *2022.08*: &nbsp;🎉 One paper is accepted by ***TGRS 2022***
+- *2022.08*: &nbsp;🎉 One paper is accepted by ***IEEE TGRS***
 
 
-# 📝 Publications 
+# 📝 Selective Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/MM24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
