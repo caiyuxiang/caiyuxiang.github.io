@@ -61,7 +61,7 @@ redirect_from:
 
 [Federated Learning Meets Test-Time Adaptation: Methods, Challenges, and Future Directions](https://link.springer.com/journal/11263)
 
-Chen Zhang, Ge Su, Huaxiao Zhou, Lu Hao, Fenglin Zhu, Jintai Chen，**Yuxiang Cai***, Jianwei Yin, Hongxia Xu*.
+Chen Zhang, Ge Su, Huaxiao Zhou, Lu Hao, Fenglin Zhu, Jintai Chen，**Yuxiang Cai***, Jianwei Yin, Hongxia Xu.
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> --> 
 - This paper provides a comprehensive survey of Federated Test-Time Adaptation (FedTTA), formalizing its problem setting and establishing a unified taxonomy encompassing three paradigms.
