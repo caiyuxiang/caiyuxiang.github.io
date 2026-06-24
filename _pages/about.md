@@ -56,6 +56,43 @@ redirect_from:
 
 # 📝 Selective Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2026</div><img src='images/IJCV 2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Federated Learning Meets Test-Time Adaptation: Methods, Challenges, and Future Directions](https://link.springer.com/journal/11263)
+
+Chen Zhang, Ge Su, Huaxiao Zhou, Lu Hao, Fenglin Zhu, Jintai Chen，**Yuxiang Cai***, Jianwei Yin, Hongxia Xu*.
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> --> 
+- This paper provides a comprehensive survey of Federated Test-Time Adaptation (FedTTA), formalizing its problem setting and establishing a unified taxonomy encompassing three paradigms.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/ECCV2026S.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spectral Evolution-Guided Token Pruning in Large Multimodal Models](https://eccv.ecva.net/Conferences/2026)
+
+Bin Chen, **Yuxiang Cai***, Yadan Luo, Yi Zhang, Jianwei Yin, Zhi Chen*.
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> --> 
+- This work proposes a training-free token pruning framework based on Cross-Layer Spectral Evolution (CLSE).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/ECCV2026A.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Accelerating Multimodal Large Language Models with Prior-Corrected Token Reduction](https://eccv.ecva.net/Conferences/2026)
+
+Zengjie Chen, **Yuxiang Cai***, Jingcai Guo, Taotao Cai, Jianwei Yin, Zhi Chen*.
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> --> 
+- This work proposes Prior-Corrected Token Reduction (PriorTR), a training-free token reduction method that explicitly separates task-conditioned attention from the model-induced prior.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/CVPR2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
