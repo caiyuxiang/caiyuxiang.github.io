@@ -61,7 +61,7 @@ redirect_from:
 
 [Federated Learning Meets Test-Time Adaptation: Methods, Challenges, and Future Directions](https://link.springer.com/journal/11263)
 
-Chen Zhang, Ge Su, Huaxiao Zhou, Lu Hao, Fenglin Zhu, Jintai Chen，**Yuxiang Cai***, Jianwei Yin, Hongxia Xu*.
+Chen Zhang, Ge Su, Huaxiao Zhou, Lu Hao, Fenglin Zhu, Jintai Chen，**Yuxiang Cai**\*, Jianwei Yin, Hongxia Xu\*.
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> --> 
 - This paper provides a comprehensive survey of Federated Test-Time Adaptation (FedTTA), formalizing its problem setting and establishing a unified taxonomy encompassing three paradigms.
@@ -73,7 +73,7 @@ Chen Zhang, Ge Su, Huaxiao Zhou, Lu Hao, Fenglin Zhu, Jintai Chen，**Yuxiang Ca
 
 [Spectral Evolution-Guided Token Pruning in Large Multimodal Models](https://eccv.ecva.net/Conferences/2026)
 
-Bin Chen, **Yuxiang Cai***, Yadan Luo, Yi Zhang, Jianwei Yin, Zhi Chen*.
+Bin Chen, **Yuxiang Cai**\*, Yadan Luo, Yi Zhang, Jianwei Yin, Zhi Chen\*.
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> --> 
 - This work proposes a training-free token pruning framework based on Cross-Layer Spectral Evolution (CLSE).
@@ -85,7 +85,7 @@ Bin Chen, **Yuxiang Cai***, Yadan Luo, Yi Zhang, Jianwei Yin, Zhi Chen*.
 
 [Accelerating Multimodal Large Language Models with Prior-Corrected Token Reduction](https://eccv.ecva.net/Conferences/2026)
 
-Zengjie Chen, **Yuxiang Cai***, Jingcai Guo, Taotao Cai, Jianwei Yin, Zhi Chen*.
+Zengjie Chen, **Yuxiang Cai**\*, Jingcai Guo, Taotao Cai, Jianwei Yin, Zhi Chen\*.
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> --> 
 - This work proposes Prior-Corrected Token Reduction (PriorTR), a training-free token reduction method that explicitly separates task-conditioned attention from the model-induced prior.
@@ -154,9 +154,9 @@ Yankai Jiang, Qiaoru Li, Binlu Xu, Haoran Sun, Chao Ding, Junting Dong, **Yuxian
 </div>
 </div>
 
-- Chen Zhang, Ge Su, Huaxiao Zhou, Lu Hao, Fenglin Zhu, Jintai Chen，**Yuxiang Cai***, Jianwei Yin, Hongxia Xu*. [Federated Learning Meets Test-Time Adaptation: Methods, Challenges, and Future Directions](https://link.springer.com/journal/11263). **IJCV**. 2026. \[CCF-A\]
-- Bin Chen, **Yuxiang Cai***, Yadan Luo, Yi Zhang, Jianwei Yin, Zhi Chen*. [Spectral Evolution-Guided Token Pruning in Large Multimodal Models](https://eccv.ecva.net/Conferences/2026). **ECCV 2026**. \[TH-CPL A\]
-- Zengjie Chen, **Yuxiang Cai***, Jingcai Guo, Taotao Cai, Jianwei Yin, Zhi Chen*. [Accelerating Multimodal Large Language Models with Prior-Corrected Token Reduction](https://eccv.ecva.net/Conferences/2026). **ECCV 2026**. \[TH-CPL A\]
+- Chen Zhang, Ge Su, Huaxiao Zhou, Lu Hao, Fenglin Zhu, Jintai Chen，**Yuxiang Cai**\*, Jianwei Yin, Hongxia Xu\*. [Federated Learning Meets Test-Time Adaptation: Methods, Challenges, and Future Directions](https://link.springer.com/journal/11263). **IJCV**. 2026. \[CCF-A\]
+- Bin Chen, **Yuxiang Cai**\*, Yadan Luo, Yi Zhang, Jianwei Yin, Zhi Chen\*. [Spectral Evolution-Guided Token Pruning in Large Multimodal Models](https://eccv.ecva.net/Conferences/2026). **ECCV 2026**. \[TH-CPL A\]
+- Zengjie Chen, **Yuxiang Cai**\*, Jingcai Guo, Taotao Cai, Jianwei Yin, Zhi Chen\*. [Accelerating Multimodal Large Language Models with Prior-Corrected Token Reduction](https://eccv.ecva.net/Conferences/2026). **ECCV 2026**. \[TH-CPL A\]
 - Yankai Jiang, Qiaoru Li, Binlu Xu, Haoran Sun, Chao Ding, Junting Dong, **Yuxiang Cai***, Xuhong Zhang, Jianwei Yin. [IBISAgent: Reinforcing Pixel-Level Visual Reasoning in MLLMs for Universal Biomedical Object Referring and Segmentation](https://cvpr.thecvf.com/Conferences/2026). **CVPR 2026**. \[CCF-A\]
 - **Yuxiang Cai**, Yongheng Shang, Jianwei Yin*. [MultiDAN: Unsupervised, Multistage, Multisource and Multitarget Domain Adaptation for Semantic Segmentation of Remote Sensing Images](https://dl.acm.org/doi/abs/10.1145/3664647.3681494). **ACMMM 2024**. \[CCF-A\]
 - **Yuxiang Cai**, Meng Xi*, Yongheng Shang, Jianwei Yin. [Exploring High-Correlation Source Domain Information for Multi-Source Domain Adaptation in Semantic Segmentation](https://dl.acm.org/doi/10.1145/3581783.3613824). **ACMMM 2023**. \[CCF-A\]
@@ -171,7 +171,7 @@ Yankai Jiang, Qiaoru Li, Binlu Xu, Haoran Sun, Chao Ding, Junting Dong, **Yuxian
 - Zilun Zhang, Zian Guan, Tiancheng Zhao, Haozhan Shen, Tianyu Li, Yuxiang Cai, Zhonggen Su, Zhaojun Liu, Jianwei Yin, Xiang Li.Geo-R1: Improving Few-Shot Geospatial Referring Expression Understanding with Reinforcement Fine-Tuning. **ISPRS Journal of Photogrammetry and Remote Sensing 2026**. \[IF=12.9\]
 - Zilun Zhang, Haozhan Shen, Tiancheng Zhao, Zian Guan, Bin Chen, Yuhao Wang, Xu Jia, **Yuxiang Cai**, Yongheng Shang, Jianwei Yin. Enhancing Ultra High Resolution Remote Sensing Imagery Analysis with ImageRAG. **IEEE GRSM 2025**. \[IF=16.4\]
 - Zhiqiang Shen, Qinfeng Li, Xuhong Zhang, **Yuxiang Cai**, Xiaochu Chen, Ping An, Haiqin Weng, Yan Liu. PatchSegDet: Attack-Agnostic Detection of Physical Adversarial Patches in Face Recognition Systems. **ICME 2025**. \[CCF-B\]
-- Zhenqian Chen, Yongheng Shang, Andre Python, **Yuxiang Cai**, Jianwei Yin*. DB-BlendMask: Decomposed Attention and Balanced BlendMask for Instance Segmentation of High-Resolution Remote Sensing Images. **TGRS 2022**. \[CCF-B, IF=8.6\]
+- Zhenqian Chen, Yongheng Shang, Andre Python, **Yuxiang Cai**, Jianwei Yin*. DB-BlendMask: Decomposed Attention and Balanced BlendMask for Instance Segmentation of High-Resolution Remote Sensing Images. **TGRS 2022**. \[ZJUTOP/CCF-B, IF=8.6\]
 
 &nbsp;* denotes Corresponding Author
 
