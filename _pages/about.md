@@ -17,37 +17,41 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-[Yuxiang Cai](https://person.zju.edu.cn/caiyx) is an assistant professor affiliated with School of Software Technology at Zhejiang University. He obtained the PhD degree in computer science and technology from Zhejiang University in 2023, supervised by Prof. [Jianwei Yin](https://mypage.zju.edu.cn/0001038). His research interests lie in ***Crossover Service***, ***Model Transfer*** and ***VLM***. In particular, he is actively working on intelligent interpretation of multimodal data (video, 2D/3D image, ...), transfer learning (UDA, TTA, ...), AI+X (remote sensing, medicine, ...) and space–air–ground integrated computing.
+[Yuxiang Cai](https://person.zju.edu.cn/caiyx) is an assistant professor affiliated with School of Software Technology at Zhejiang University. He obtained the PhD degree in computer science and technology from Zhejiang University in 2023, supervised by Prof. [Jianwei Yin](https://mypage.zju.edu.cn/0001038). His research interests lie in ***Crossover Service***, ***Model Transfer***, ***Embodied AI*** and ***VLM***. In particular, he is actively working on intelligent interpretation of multimodal data (video, 2D/3D image, ...), transfer learning (UDA, TTA, ...), AI+X (remote sensing, medicine, ...)，Embodied AI(VLA, Sim-to-Real, Efficiency, ...) and space–air–ground integrated computing.
 
 ***For students who are interested in joining our research group (Master/Intern), please contact me via caiyuxiang AT zju.edu.cn.***
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). --> 
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉 One paper is accepted by ***CVPR 2026***
+- *2026.06*: &nbsp; I was Invited to serve as a reviewer for ***IJCV***
+- *2026.06*: &nbsp;🎉 One paper is accepted by ***IJCV***(IF=10.3)!
+- *2026.06*: &nbsp;🎉 Two papers are accepted by ***ECCV 2026***!
+- *2026.06*: &nbsp; I was Invited to serve as a reviewer for ***AAAI 2027***
+- *2026.02*: &nbsp;🎉 Two papers are accepted by ***CVPR 2026***(one main, one findings)!
 - *2026.02*: &nbsp; I was Invited to serve as a reviewer for ***ACMMM 2026***
 - *2026.02*: &nbsp; I was Invited to serve as a reviewer for ***ICML 2026***
-- *2026.01*: &nbsp;🎉 One paper is accepted by ***ICLR 2026***
-- *2026.01*: &nbsp;🎉 One paper is accepted by ***ICASSP 2026***
+- *2026.01*: &nbsp;🎉 One paper is accepted by ***ICLR 2026***!
+- *2026.01*: &nbsp;🎉 One paper is accepted by ***ICASSP 2026***!
 - *2025.12*: &nbsp; I was Invited to serve as a reviewer for ***IJCAI-ECAI 2026***
 - *2025.11*: &nbsp; I was Invited to serve as a reviewer for ***CVPR 2026***
-- *2025.09*: &nbsp;🎉 One ***United States Patent*** is granted
-- *2025.09*: &nbsp;🎉 One Patent is granted by State Intellectual Property Office of China
+- *2025.09*: &nbsp;🎉 One ***United States Patent*** is granted!
+- *2025.09*: &nbsp;🎉 One Patent is granted by State Intellectual Property Office of China!
 - *2025.08*: &nbsp; I was Invited to serve as a reviewer for ***AAAI 2026***
-- *2025.05*: &nbsp;🎉 One paper is accepted by ***IEEE GRSM***(IF=16.4)
-- *2025.04*: &nbsp;🎉 One Patent is granted by State Intellectual Property Office of China
-- *2025.03*: &nbsp;🎉 One paper is accepted by ***ICME 2025***
+- *2025.05*: &nbsp;🎉 One paper is accepted by ***IEEE GRSM***(IF=16.4)!
+- *2025.04*: &nbsp;🎉 One Patent is granted by State Intellectual Property Office of China!
+- *2025.03*: &nbsp;🎉 One paper is accepted by ***ICME 2025***!
 - *2025.02*: &nbsp; I was Invited to serve as a reviewer for ***ACMMM 2025***
 - *2025.01*: &nbsp; I was Invited to serve as a reviewer for ***IJCAI 2025***
-- *2024.07*: &nbsp;🎉 One paper is accepted by ***ACMMM 2024***
+- *2024.07*: &nbsp;🎉 One paper is accepted by ***ACMMM 2024***!
 - *2024.01*: &nbsp; Join the School of Software Technology at Zhejiang University as an Assistant Professor
 - *2023.11*: &nbsp;🎉 One Patent is granted by State Intellectual Property Office of China
-- *2023.07*: &nbsp;🎉 One paper is accepted by ***ACMMM 2023***
-- *2023.05*: &nbsp; I was Invited to serve as a reviewer for ***IEEE TGRS***
-- *2023.02*: &nbsp; I was Invited to serve as a reviewer for ***NPL***
-- *2022.12*: &nbsp;🎉 One paper is accepted by ***IEEE TGRS***
-- *2022.09*: &nbsp; I was Invited to serve as a reviewer for ***TJSC***
-- *2022.08*: &nbsp;🎉 One paper is accepted by ***IEEE TGRS***
+- *2023.07*: &nbsp;🎉 One paper is accepted by ***ACMMM 2023***!
+- *2023.05*: &nbsp; I was Invited to serve as a reviewer for ***IEEE TGRS***!
+- *2023.02*: &nbsp; I was Invited to serve as a reviewer for ***NPL***!
+- *2022.12*: &nbsp;🎉 One paper is accepted by ***IEEE TGRS***!
+- *2022.09*: &nbsp; I was Invited to serve as a reviewer for ***TJSC***!
+- *2022.08*: &nbsp;🎉 One paper is accepted by ***IEEE TGRS***!
 
 
 # 📝 Selective Publications 
@@ -113,6 +117,9 @@ Yankai Jiang, Qiaoru Li, Binlu Xu, Haoran Sun, Chao Ding, Junting Dong, **Yuxian
 </div>
 </div>
 
+- Chen Zhang, Ge Su, Huaxiao Zhou, Lu Hao, Fenglin Zhu, Jintai Chen，**Yuxiang Cai***, Jianwei Yin, Hongxia Xu*. [Federated Learning Meets Test-Time Adaptation: Methods, Challenges, and Future Directions](https://link.springer.com/journal/11263). **IJCV**. 2026. \[CCF-A\]
+- Bin Chen, **Yuxiang Cai***, Yadan Luo, Yi Zhang, Jianwei Yin, Zhi Chen*. [Spectral Evolution-Guided Token Pruning in Large Multimodal Models](https://eccv.ecva.net/Conferences/2026). **ECCV 2026**. \[TH-CPL A\]
+- Zengjie Chen, **Yuxiang Cai***, Jingcai Guo, Taotao Cai, Jianwei Yin, Zhi Chen*. [Accelerating Multimodal Large Language Models with Prior-Corrected Token Reduction](https://eccv.ecva.net/Conferences/2026). **ECCV 2026**. \[TH-CPL A\]
 - Yankai Jiang, Qiaoru Li, Binlu Xu, Haoran Sun, Chao Ding, Junting Dong, **Yuxiang Cai***, Xuhong Zhang, Jianwei Yin. [IBISAgent: Reinforcing Pixel-Level Visual Reasoning in MLLMs for Universal Biomedical Object Referring and Segmentation](https://cvpr.thecvf.com/Conferences/2026). **CVPR 2026**. \[CCF-A\]
 - **Yuxiang Cai**, Yongheng Shang, Jianwei Yin*. [MultiDAN: Unsupervised, Multistage, Multisource and Multitarget Domain Adaptation for Semantic Segmentation of Remote Sensing Images](https://dl.acm.org/doi/abs/10.1145/3664647.3681494). **ACMMM 2024**. \[CCF-A\]
 - **Yuxiang Cai**, Meng Xi*, Yongheng Shang, Jianwei Yin. [Exploring High-Correlation Source Domain Information for Multi-Source Domain Adaptation in Semantic Segmentation](https://dl.acm.org/doi/10.1145/3581783.3613824). **ACMMM 2023**. \[CCF-A\]
@@ -146,7 +153,7 @@ Yankai Jiang, Qiaoru Li, Binlu Xu, Haoran Sun, Chao Ding, Junting Dong, **Yuxian
 
 # 📚 Professional Activities
 - Reviewer for IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), International Conference on Machine Learning(ICML), ACM International Conference on Multimedia(ACMMM), AAAI Conference on Artificial Intelligence(AAAI), International Joint Conference on Artificial Intelligence(IJCAI), ...
-- Reviewer for IEEE Transactions on Geoscience and Remote Sensing (TGRS), Neural Processing Letters (NPL), The Journal of SuperComputing (TJSC), ...
+- Reviewer for International Journal of Computer Vision (IJCV), IEEE Transactions on Geoscience and Remote Sensing (TGRS), Neural Processing Letters (NPL), The Journal of SuperComputing (TJSC), ...
 
 # 🎓 Education
 - 2018.09 - 2023.12, Ph.D., Computer Science and Technology, Zhejiang University, Hangzhou.
