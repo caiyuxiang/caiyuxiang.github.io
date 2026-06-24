@@ -28,6 +28,8 @@ redirect_from:
 - *2026.06*: &nbsp;🎉 One paper is accepted by ***IJCV*** (IF=10.3) 
 - *2026.06*: &nbsp;🎉 Two papers are accepted by ***ECCV 2026*** 
 - *2026.06*: &nbsp; I was Invited to serve as a reviewer for ***AAAI 2027***
+- *2026.05*: &nbsp;🎉 One paper is accepted by ***ICML 2026***
+- *2026.04*: &nbsp;🎉 One paper is accepted by ***ISPRS*** (IF=12.9) 
 - *2026.02*: &nbsp;🎉 Two papers are accepted by ***CVPR 2026*** (one main, one findings)
 - *2026.02*: &nbsp; I was Invited to serve as a reviewer for ***ACMMM 2026***
 - *2026.02*: &nbsp; I was Invited to serve as a reviewer for ***ICML 2026***
