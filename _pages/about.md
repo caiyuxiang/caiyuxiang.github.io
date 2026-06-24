@@ -61,7 +61,7 @@ redirect_from:
 
 [Federated Learning Meets Test-Time Adaptation: Methods, Challenges, and Future Directions](https://link.springer.com/journal/11263)
 
-Chen Zhang, Ge Su, Huaxiao Zhou, Lu Hao, Fenglin Zhu, Jintai Chen，**Yuxiang Cai***, Jianwei Yin, Hongxia Xu.
+Chen Zhang, Ge Su, Huaxiao Zhou, Lu Hao, Fenglin Zhu, Jintai Chen，**Yuxiang Cai***, Jianwei Yin, Hongxia Xu*.
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> --> 
 - This paper provides a comprehensive survey of Federated Test-Time Adaptation (FedTTA), formalizing its problem setting and establishing a unified taxonomy encompassing three paradigms.
@@ -161,13 +161,15 @@ Yankai Jiang, Qiaoru Li, Binlu Xu, Haoran Sun, Chao Ding, Junting Dong, **Yuxian
 - **Yuxiang Cai**, Yongheng Shang, Jianwei Yin*. [MultiDAN: Unsupervised, Multistage, Multisource and Multitarget Domain Adaptation for Semantic Segmentation of Remote Sensing Images](https://dl.acm.org/doi/abs/10.1145/3664647.3681494). **ACMMM 2024**. \[CCF-A\]
 - **Yuxiang Cai**, Meng Xi*, Yongheng Shang, Jianwei Yin. [Exploring High-Correlation Source Domain Information for Multi-Source Domain Adaptation in Semantic Segmentation](https://dl.acm.org/doi/10.1145/3581783.3613824). **ACMMM 2023**. \[CCF-A\]
 - **Yuxiang Cai**, Yingchun Yang, Yongheng Shang, Zhengwei Shen, Jianwei Yin*. [DASRSNet: Multitask Domain Adaptation for Super-Resolution-Aided Semantic Segmentation of Remote Sensing Images](https://doi.org/10.1109/TGRS.2022.3232129).
-**TGRS 2023**. \[CCF-B, IF=8.6\]
-- **Yuxiang Cai**, Yingchun Yang, Yongheng Shang, Zhenqian Chen, Zhengwei Shen, Jianwei Yin*. [IterDANet: Iterative Intra-domain Adaptation for Semantic Segmentation of Remote Sensing Images](https://doi.org/10.1109/TGRS.2022.3203040). **TGRS 2022**. \[CCF-B, IF=8.6\]
+**TGRS 2023**. \[ZJUTOP/CCF-B, IF=8.6\]
+- **Yuxiang Cai**, Yingchun Yang, Yongheng Shang, Zhenqian Chen, Zhengwei Shen, Jianwei Yin*. [IterDANet: Iterative Intra-domain Adaptation for Semantic Segmentation of Remote Sensing Images](https://doi.org/10.1109/TGRS.2022.3203040). **TGRS 2022**. \[ZJUTOP/CCF-B, IF=8.6\]
 - Xu Jia, Bin Chen, Huaxiao Zhou, Xiaochu Chen, Lingxin Yu, Zilun Zhang, **Yuxiang Cai***. [TSAVD-CLIP: One Visual Encoder Learn Both Temporal and Spatial Feat](https://link.springer.com/article/10.1007/s11761-025-00468-5). **SOCA 2025**. \[CCF-C\]
 - **Yuxiang Cai**, Yingchun Yang*, Qiyi Zheng, Zhengwei Shen, Yongheng Shang, Jianwei Yin, Zhongtian Shi. [BiFDANet: Unsupervised Bidirectional Domain Adaptation for Semantic Segmentation of Remote Sensing Images](https://www.mdpi.com/2072-4292/14/1/190). **RS 2022**. \[IF=5.0\]
-- Yuntai Bao, Xuhong Zhang, Jintao Chen, Ge Su, **Yuxiang Cai**, Hao Peng, Sun Bing, Haiqin Weng, Liu Yan, Jianwei Yin. Faithful Bi-Directional Model Steering via Distribution Matching and Distributed Interchange Interventions. **ICLR 2026**.
+- Yingxuan Zhuang, Miao Pan, Jingxiao Yang, Jintao Chen, Cheng Tan, **Yuxiang Cai**, Siwei Tan, Chen Zhi, Xuhong Zhang, Jianwei Yin. Mitigating Manifold Departure: Uncertainty-aware Subspace Rectification for Trustworthy MLLM Decoding. **ICML 2026**. \[CCF-A\]
+- Yuntai Bao, Xuhong Zhang, Jintao Chen, Ge Su, **Yuxiang Cai**, Hao Peng, Sun Bing, Haiqin Weng, Liu Yan, Jianwei Yin. Faithful Bi-Directional Model Steering via Distribution Matching and Distributed Interchange Interventions. **ICLR 2026**. \[CCF-A\]
 - Xingyu Wu, Jintao Chen, Xuanye Zheng, Chenkai pan, **Yuxiang Cai**, Sun Bing, Ge Su, Shengye Pang, Xuhong Zhang. Adaptive Distillation for LM-GNN Alignment in Semi-Supervised Text-Attributed Graph Node Classification. **ICASSP 2026**. \[CCF-B\]
-- Zilun Zhang, Haozhan Shen, Tiancheng Zhao, Zian Guan, Bin Chen, Yuhao Wang, Xu Jia, **Yuxiang Cai**, Yongheng Shang, Jianwei Yin. Enhancing Ultra High Resolution Remote Sensing Imagery Analysis with ImageRAG. **IEEE GRSM 2025** \[IF=16.4\]
+- Zilun Zhang, Zian Guan, Tiancheng Zhao, Haozhan Shen, Tianyu Li, Yuxiang Cai, Zhonggen Su, Zhaojun Liu, Jianwei Yin, Xiang Li.Geo-R1: Improving Few-Shot Geospatial Referring Expression Understanding with Reinforcement Fine-Tuning. **ISPRS Journal of Photogrammetry and Remote Sensing** 2026. \[IF=12.9\]
+- Zilun Zhang, Haozhan Shen, Tiancheng Zhao, Zian Guan, Bin Chen, Yuhao Wang, Xu Jia, **Yuxiang Cai**, Yongheng Shang, Jianwei Yin. Enhancing Ultra High Resolution Remote Sensing Imagery Analysis with ImageRAG. **IEEE GRSM** 2025. \[IF=16.4\]
 - Zhiqiang Shen, Qinfeng Li, Xuhong Zhang, **Yuxiang Cai**, Xiaochu Chen, Ping An, Haiqin Weng, Yan Liu. PatchSegDet: Attack-Agnostic Detection of Physical Adversarial Patches in Face Recognition Systems. **ICME 2025**. \[CCF-B\]
 - Zhenqian Chen, Yongheng Shang, Andre Python, **Yuxiang Cai**, Jianwei Yin*. DB-BlendMask: Decomposed Attention and Balanced BlendMask for Instance Segmentation of High-Resolution Remote Sensing Images. **TGRS 2022**. \[CCF-B, IF=8.6\]
 
