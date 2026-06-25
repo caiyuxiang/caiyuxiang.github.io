@@ -29,6 +29,7 @@ redirect_from:
 - *2026.06*: &nbsp;🎉 One paper is accepted by ***IJCV*** (IF=10.3) 
 - *2026.06*: &nbsp;🎉 Two papers are accepted by ***ECCV 2026*** 
 - *2026.06*: &nbsp; I was Invited to serve as a reviewer for ***AAAI 2027***
+- *2026.05*: &nbsp; I was Invited to serve as a reviewer for ***CSUR***
 - *2026.05*: &nbsp;🎉 One paper is accepted by ***ICML 2026***
 - *2026.04*: &nbsp;🎉 One paper is accepted by ***ISPRS*** (IF=12.9) 
 - *2026.02*: &nbsp;🎉 Two papers are accepted by ***CVPR 2026*** (one main, one findings)
@@ -203,7 +204,7 @@ Yankai Jiang, Qiaoru Li, Binlu Xu, Haoran Sun, Chao Ding, Junting Dong, **Yuxian
 
 # 📚 Professional Activities
 - Reviewer for IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), International Conference on Machine Learning(ICML), ACM International Conference on Multimedia(ACMMM), AAAI Conference on Artificial Intelligence(AAAI), International Joint Conference on Artificial Intelligence(IJCAI), ...
-- Reviewer for International Journal of Computer Vision (IJCV), IEEE Transactions on Geoscience and Remote Sensing (TGRS), IEEE Transactions onNeural Networks andLearning Systems  (TNNLS), ...
+- Reviewer for International Journal of Computer Vision (IJCV), ACM Computing Surveys (CSUR), IEEE Transactions on Geoscience and Remote Sensing (TGRS), IEEE Transactions onNeural Networks andLearning Systems  (TNNLS), ...
 
 # 🎓 Education
 - 2018.09 - 2023.12, Ph.D., Computer Science and Technology, Zhejiang University, Hangzhou.
