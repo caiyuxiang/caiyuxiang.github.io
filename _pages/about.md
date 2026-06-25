@@ -25,6 +25,7 @@ redirect_from:
 
 # 🔥 News
 - *2026.06*: &nbsp; I was Invited to serve as a reviewer for ***IJCV***
+- *2026.06*: &nbsp; I was Invited to serve as a reviewer for ***TNNLS***
 - *2026.06*: &nbsp;🎉 One paper is accepted by ***IJCV*** (IF=10.3) 
 - *2026.06*: &nbsp;🎉 Two papers are accepted by ***ECCV 2026*** 
 - *2026.06*: &nbsp; I was Invited to serve as a reviewer for ***AAAI 2027***
@@ -177,12 +178,20 @@ Yankai Jiang, Qiaoru Li, Binlu Xu, Haoran Sun, Chao Ding, Junting Dong, **Yuxian
 
 &nbsp;* denotes Corresponding Author
 
+
+# 👏 Awards
+- 2024年度中国商业联合会科技进步奖特等奖
+- 2024年示范性软件学院软件技术创新成果
+- 2026年示范性软件学院联盟关键软件技术创新成果
+
+
 # 📓 Selective Patents 
 - US, "SEMANTIC SEGMENTATION METHOD FOR CROSS-DOMAIN REMOTE SENSING IMAGES BASED ON ITERATIVE INTRA-DOMAIN ADAPTATION", US 12423825 B2.
 - CN, "基于多级领域相关度的多源领域自适应语义分割方法及装置", ZL 2023 1 1119643.3.
 - CN, "基于迭代域内适应和自训练的跨域遥感图像语义分割方法", ZL 2022 1 0402338.4.
 - CN, "基于双向无监督域适应融合的跨星遥感图像语义分割方法", ZL 2021 1 1017498.9.
 - CN, "基于尺寸平衡FCOS的高分辨率遥感场景目标检测方法", ZL 2021 1 1143539.9.
+
 
 <!--
 # 📓 Patents 
@@ -194,7 +203,7 @@ Yankai Jiang, Qiaoru Li, Binlu Xu, Haoran Sun, Chao Ding, Junting Dong, **Yuxian
 
 # 📚 Professional Activities
 - Reviewer for IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), International Conference on Machine Learning(ICML), ACM International Conference on Multimedia(ACMMM), AAAI Conference on Artificial Intelligence(AAAI), International Joint Conference on Artificial Intelligence(IJCAI), ...
-- Reviewer for International Journal of Computer Vision (IJCV), IEEE Transactions on Geoscience and Remote Sensing (TGRS), Neural Processing Letters (NPL), The Journal of SuperComputing (TJSC), ...
+- Reviewer for International Journal of Computer Vision (IJCV), IEEE Transactions on Geoscience and Remote Sensing (TGRS), IEEE Transactions onNeural Networks andLearning Systems  (TNNLS), ...
 
 # 🎓 Education
 - 2018.09 - 2023.12, Ph.D., Computer Science and Technology, Zhejiang University, Hangzhou.
