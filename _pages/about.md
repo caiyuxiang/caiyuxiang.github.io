@@ -24,6 +24,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉 One paper is accepted by ***ACMMM 2026***
 - *2026.06*: &nbsp; I was Invited to serve as a reviewer for ***IJCV***
 - *2026.06*: &nbsp; I was Invited to serve as a reviewer for ***TNNLS***
 - *2026.06*: &nbsp;🎉 One paper is accepted by ***IJCV*** (IF=10.3) 
@@ -59,6 +60,18 @@ redirect_from:
 
 
 # 📝 Selective Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2026</div><img src='images/mm26.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Continual Video-MLLM Adaptation over Evolving Domains](https://2026.acmmm.org/)
+
+Rui Cheng, Meixing Shi, **Yuxiang Cai**\*, Jingcai Guo, Jianwei Yin, Zhi Chen\*
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> --> 
+- This paper provides proposes Distribution-Aware Expert Routing (DAER), a parameter-efficient framework for continual Video-MLLM adaptation over evolving domains.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2026</div><img src='images/IJCV 2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -158,6 +171,7 @@ Yankai Jiang, Qiaoru Li, Binlu Xu, Haoran Sun, Chao Ding, Junting Dong, **Yuxian
 </div>
 </div>
 
+- Rui Cheng, Meixing Shi, **Yuxiang Cai**\*, Jingcai Guo, Jianwei Yin, Zhi Chen\*. [Continual Video-MLLM Adaptation over Evolving Domains](https://2026.acmmm.org/). **ACMMM 2026**. \[CCF-A\]
 - Chen Zhang, Ge Su, Huaxiao Zhou, Lu Hao, Fenglin Zhu, Jintai Chen，**Yuxiang Cai**\*, Jianwei Yin, Hongxia Xu\*. [Federated Learning Meets Test-Time Adaptation: Methods, Challenges, and Future Directions](https://link.springer.com/journal/11263). **IJCV**. 2026. \[CCF-A\]
 - Bin Chen, **Yuxiang Cai**\*, Yadan Luo, Yi Zhang, Jianwei Yin, Zhi Chen\*. [Spectral Evolution-Guided Token Pruning in Large Multimodal Models](https://eccv.ecva.net/Conferences/2026). **ECCV 2026**. \[TH-CPL A\]
 - Zengjie Chen, **Yuxiang Cai**\*, Jingcai Guo, Taotao Cai, Jianwei Yin, Zhi Chen\*. [Accelerating Multimodal Large Language Models with Prior-Corrected Token Reduction](https://eccv.ecva.net/Conferences/2026). **ECCV 2026**. \[TH-CPL A\]
