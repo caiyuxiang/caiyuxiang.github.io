@@ -69,7 +69,7 @@ redirect_from:
 Rui Cheng, Meixing Shi, **Yuxiang Cai**\*, Jingcai Guo, Jianwei Yin, Zhi Chen\*
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> --> 
-- This paper provides proposes Distribution-Aware Expert Routing (DAER), a parameter-efficient framework for continual Video-MLLM adaptation over evolving domains.
+- This paper proposes Distribution-Aware Expert Routing (DAER), a parameter-efficient framework for continual Video-MLLM adaptation over evolving domains.
 </div>
 </div>
 
